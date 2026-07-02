@@ -1,0 +1,4 @@
+reservationId,roomNumber,guestName,guestEmail,guestPhone,checkInDate,checkOutDate,totalPrice,status,paymentStatus
+RES-C01EE46C,101,Test User,test@test.com,12345,2026-07-04,2026-07-07,240.00,CONFIRMED,PENDING
+RES-F81236C8,102,Persisted Guest,persisted@email.com,999-999,2026-07-22,2026-07-24,160.00,CONFIRMED,PENDING
+RES-6D1AF4D2,302,Arnav,av@gmail.com,7618695260,2026-07-02,2026-07-05,1650.00,CONFIRMED,PENDING
